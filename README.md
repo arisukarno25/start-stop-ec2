@@ -1,4 +1,7 @@
 ## Automate Start and Stop EC2 Instance in AWS 
+### Flow System
+![image](https://user-images.githubusercontent.com/62439778/154271804-3f846a10-174f-4d67-93f3-3a2e409f2a33.png)
+
 ### 1. Deploy the Stack 
     a. define the tag started_by=instance-scheduler
     b. define the tag stopped_by=instance-scheduler
